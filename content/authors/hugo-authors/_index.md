@@ -1,8 +1,7 @@
 ---
-title: Hugo Authors
+title: Toby Treacher
 bio: |
-  Written by You. This is where your author bio lives. Share your work, your
-  joys and of course, your Twitter handle.
+  A product manager learning to write.
 avatar: /images/profile-01.jpeg
 featured: true
 social:
