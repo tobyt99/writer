@@ -1,6 +1,6 @@
 ---
 hero:
-  heading: pdrift
+  heading: 'pdrift: writing'
   maxWidthPX: "652"
 
 ---
